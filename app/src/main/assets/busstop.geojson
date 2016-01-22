@@ -1,0 +1,136 @@
+{
+  "type": "Feature",
+  "properties": {
+    "route_no": "1",
+    "origin": "Jayanagara 9th Block",
+    "dest": "Yeshwanathapura new railway station",
+    "routes_map_link": "http://www.mybmtc.com/tripplanner/route/location_via/1968/0/0/u/0/1/color?width=1000&height=700&iframe=true",
+    "routes_busstops_link": "http://www.mybmtc.com/route/busstops/1968/print/1/color?width=550&height=600&iframe=true",
+    "routes_map_json_content": "[{\"busstop\": \"Jayanagara 9th Block,JAYANAGARA 9TH BLOCK,BESIDE HOTEL SRI SAI\", \"latlons\": [\"12.9197565816171\", \"77.5923588994416\"]}, {\"busstop\": \"Jayanagara T Block,JAYANAGARA 4TH T BLOCK,BESIDE HDFC BANK\", \"latlons\": [\"12.9226893214618\", \"77.5933845451659\"]}, {\"busstop\": \"Jayanagara 18th Main,JAYANAGARA 4TH T BLOCK,OPPOSITE OF LAKSHMI AYURVEDIC CENTER\", \"latlons\": [\"12.9231859777075\", \"77.5887716805949\"]}, {\"busstop\": \"Church,JAYANAGARA 4TH T BLOCK,BESIDE POORNIMA CONVENTION\", \"latlons\": [\"12.9279596029171\", \"77.5876041867249\"]}, {\"busstop\": \"Jayanagara 4th Block,TTMC\", \"latlons\": [\"12.9284826437007\", \"77.58420959115\"]}, {\"busstop\": \"Jayanagara 3rd Block,JAYANAGARA 3RD BLOCK,OPPOSITE OF UTL TECHNOLOGIS\", \"latlons\": [\"12.9317783285\", \"77.5839063618\"]}, {\"busstop\": \"Madavan Park,JAYANAGARA 3RD BLOCK,OPPOSITE OF ORIENTAL INSUARENCE\", \"latlons\": [\"12.9361068271\", \"77.5839236286\"]}, {\"busstop\": \"Southend Circle,BASAVANAGUDI,BESIDE GANDHARVA FAMILY BAR\", \"latlons\": [\"12.9366643075\", \"77.5766457058\"]}, {\"busstop\": \"Nagasandra Circle,BASAVANAGUDI,BESIDE PROSPER PARK APPARTMENT\", \"latlons\": [\"12.9367205700067\", \"77.5721701369447\"]}, {\"busstop\": \"Netakallappa Circle,BASAVANAGUDI,OPPOSITE OF GURU RAGHAVENDRA BANK\", \"latlons\": [\"12.9395624343\", \"77.5721522514\"]}, {\"busstop\": \"Basavanagudi Police Station,BASAVANAGUDI,BESIDE ACHIEVE SCHOOL OF EDUCATION\", \"latlons\": [\"12.94189\", \"77.57358\"]}, {\"busstop\": \"Gandhi Bazaar,BASAVANAGUDI,BESIDE ASHOKA PLAZA\", \"latlons\": [\"12.9457424115\", \"77.5707005896\"]}, {\"busstop\": \"Ramakrishna Ashrama,GAVIPURAM EXTENTION,OPPOSITE OF STATE BANK OF INDIA\", \"latlons\": [\"12.94914747783\", \"77.567561017579\"]}, {\"busstop\": \"Bangalore High School,KEMPE GOWDA NAGARA,IN FRONT OF MORE MEGHA STORE\", \"latlons\": [\"12.9518947285\", \"77.5674634986\"]}, {\"busstop\": \"Chamarajapet,CHAMARAJA PETE,BESIDE VENKUS & CO. PETROL BUNK\", \"latlons\": [\"12.957194522\", \"77.5682954863\"]}, {\"busstop\": \"Makkalakoota\", \"latlons\": [\"12.95850855\", \"77.57402561\"]}, {\"busstop\": \"Krishnarajendra Market\", \"latlons\": [\"12.96161187\", \"77.57527904\"]}, {\"busstop\": \"Veterinary Hospital\", \"latlons\": [\"12.96366\", \"77.56843\"]}, {\"busstop\": \"Goodshed Road Gate,COTTONPET,BESIDE BALAGANGADHARANATHA SWAMYJI FREE HOSTEL SCHOOL\", \"latlons\": [\"12.9681187418378\", \"77.5680068206731\"]}, {\"busstop\": \"Majestic,Opposite to City Railway Station\", \"latlons\": [\"12.97736\", \"77.57074\"]}, {\"busstop\": \"Ananda Rao Circle,IN FRONT OF DIRECTOR OF MEDICAL EDUCATION\", \"latlons\": [\"12.9817447954723\", \"77.574481312945\"]}, {\"busstop\": \"Central,SHESHADRI PURAM,OPPOSITE TO HOTEL GREEN ARCHID\", \"latlons\": [\"12.9899747663903\", \"77.572098665973\"]}, {\"busstop\": \"Malleshwaram Circle,MALLESHWARAM,BESIDE R.R.GOLD PALACE\", \"latlons\": [\"12.9978901319732\", \"77.5713099939793\"]}, {\"busstop\": \"Malleshwaram 8th Cross,MALLESHWARAM,BESIDE FLOWER MARKET\", \"latlons\": [\"12.99966\", \"77.57128\"]}, {\"busstop\": \"Malleshwaram 15th Cross,MALLESHWARAM,BESIDE SAI MANDIR\", \"latlons\": [\"13.005030714\", \"77.5711547211\"]}, {\"busstop\": \"Malleshwaram 18th Cross,MALLESHWARAM,BESIDE KARNATAKA EXAMINATION AUTHORITY\", \"latlons\": [\"13.0090816878\", \"77.5710476004\"]}, {\"busstop\": \"Tata Institute\", \"latlons\": [\"13.01565694\", \"77.56289701\"]}, {\"busstop\": \"Yeshawanthapura TTMC\", \"latlons\": [\"13.017420746122461\", \"77.55707759428026\"]}, {\"busstop\": \"Govardhan Talkies,YESHAWANTHPURA,BESIDE BSNL OFFICE\", \"latlons\": [\"13.01856\", \"77.55320\"]}, {\"busstop\": \"Yeshwanathapura new railway station\", \"latlons\": [\"13.02311\", \"77.55029\"]}]"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        77.59228515625,
+        12.919677734375
+      ],
+      [
+        77.593505859375,
+        12.9227294921875
+      ],
+      [
+        77.58868408203125,
+        12.92327880859375
+      ],
+      [
+        77.58770751953125,
+        12.9281005859375
+      ],
+      [
+        77.58428955078125,
+        12.92852783203125
+      ],
+      [
+        77.58392333984375,
+        12.931884765625
+      ],
+      [
+        77.58392333984375,
+        12.93609619140625
+      ],
+      [
+        77.57672119140625,
+        12.93670654296875
+      ],
+      [
+        77.57208251953125,
+        12.93670654296875
+      ],
+      [
+        77.57208251953125,
+        12.939697265625
+      ],
+      [
+        77.57373046875,
+        12.94189453125
+      ],
+      [
+        77.5706787109375,
+        12.9456787109375
+      ],
+      [
+        77.56768798828125,
+        12.94927978515625
+      ],
+      [
+        77.5675048828125,
+        12.951904296875
+      ],
+      [
+        77.56829833984375,
+        12.957275390625
+      ],
+      [
+        77.5740966796875,
+        12.95849609375
+      ],
+      [
+        77.5753173828125,
+        12.96173095703125
+      ],
+      [
+        77.5684814453125,
+        12.96368408203125
+      ],
+      [
+        77.568115234375,
+        12.96807861328125
+      ],
+      [
+        77.5706787109375,
+        12.97747802734375
+      ],
+      [
+        77.57452392578125,
+        12.981689453125
+      ],
+      [
+        77.57208251953125,
+        12.9901123046875
+      ],
+      [
+        77.5712890625,
+        12.9979248046875
+      ],
+      [
+        77.5712890625,
+        12.99969482421875
+      ],
+      [
+        77.5712890625,
+        13.005126953125
+      ],
+      [
+        77.57110595703125,
+        13.00909423828125
+      ],
+      [
+        77.56292724609375,
+        13.01568603515625
+      ],
+      [
+        77.55712890625,
+        13.01751708984375
+      ],
+      [
+        77.55328369140625,
+        13.0186767578125
+      ],
+      [
+        77.55029296875,
+        13.0230712890625
+      ]
+    ]
+  }
+}
